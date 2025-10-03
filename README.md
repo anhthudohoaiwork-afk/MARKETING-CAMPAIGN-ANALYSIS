@@ -1,3 +1,15 @@
+## 📊 Interactive Dashboard
+
+This project also includes an **interactive dashboard** for exploring stock data.  
+You can preview it below and click the link to interact with the live version.
+
+![Dashboard Preview](images/dashboardpreview.png)  
+
+🔗 [View Interactive Dashboard on Looker Studio](https://lookerstudio.google.com/reporting/1b4800d6-9a61-41de-9114-380f1dc8de7a)  
+
+
+---
+
 ## About Dataset  
 This dataset captures **key performance data** from a simulated marketing campaign, including spend, customer behavior, and business outcomes.  
 - Each row represents a campaign on a specific date, with attributes such as impressions, clicks, leads, orders, and revenue.  
