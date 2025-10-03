@@ -174,9 +174,10 @@ These metrics were computed at multiple aggregation levels: **by campaign, by ca
 ![Number of Orders by Weekday](images/Number%20of%20Orders%20by%20Weekday%20(Mon–Fri).png)  
 ![CTR by Weekday](images/_CTR%20by%20Weekday%20(Mon–Fri).png)
 
-# PERFORMANCE BY CATEGORY  
 
-**Business Question:** Which types of campaigns work best?  
+##  PERFORMANCE BY CATEGORY  
+
+### Business Question: *Which types of campaigns work best?*  
 
 ![Cost Metrics Breakdown by Category](images/Cost%20Metrics%20Breakdown%20by%20Category.png)  
 
