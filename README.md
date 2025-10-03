@@ -224,9 +224,9 @@ These metrics were computed at multiple aggregation levels: **by campaign, by ca
 
 ---
 
-### GEO-LOCATION PERFORMANCE  
+# GEO-LOCATION PERFORMANCE  
 
-# Business Question: *Which geo-locations are better for targeting?*  
+## Business Question: *Which geo-locations are better for targeting?*  
 
 ![Cost Metrics by Tier](images/Cost%20Metrics%20by%20Tier.png)  
 
