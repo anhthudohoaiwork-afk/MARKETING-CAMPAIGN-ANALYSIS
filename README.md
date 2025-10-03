@@ -31,16 +31,18 @@ The dataset enables analysis of important marketing KPIs, including:
 
 1. **Marketing ROI & Efficiency**  
    - What is the overall ROMI?  
-   - ROMI by campaigns → Which campaigns deliver the best return relative to spend?  
+   - ROMI by campaigns
+ → Which campaigns deliver the best return relative to spend?  
 
 2. **Campaign Performance Over Time**  
-   - Performance by date → When did we spend the most?  
-   - When did we earn the most revenue?  
-   - Analyze peak conversion rates and average order value.  
+   - Performance by date
+ → When did we spend the most?  
+ → When did we earn the most revenue?  
+ → Analyze peak conversion rates and average order value.  
 
 3. **Customer Behavior Analysis**  
    - When are buyers more active?  
-   - Compare average revenue on weekdays vs weekends.  
+ → Compare average revenue on weekdays vs weekends.  
 
 4. **Campaign Type Effectiveness**  
    - Which campaign types work best (Social, Banner, Influencer, Search)?  
