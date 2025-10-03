@@ -262,7 +262,7 @@ These metrics were computed at multiple aggregation levels: **by campaign, by ca
 
 # 📌 RECOMMENDATIONS  
 
-## 🔹 Performance Over Time  
+## Performance Over Time  
 - **Mid-month (10–20):** Boost budget — peak performance (esp. 18–20). Launch promos aligned with **payday behavior**.  
 - **Late-month (after 25):** Performance drops → cut spend or pause low-performing campaigns.  
 - **Early-month (1–10):** Test lead magnets or limited-time offers to drive conversions.  
@@ -270,7 +270,7 @@ These metrics were computed at multiple aggregation levels: **by campaign, by ca
 
 ---
 
-## 🔹 Performance by Campaign  
+## Performance by Campaign  
 - **Boost high-performing campaigns:**  
   - Increase investment in **YouTube Blogger** and **Facebook Retargeting** (strong full-funnel performance).  
   - Explore **TikTok & Instagram** cautiously — reassess audience fit before scaling.  
@@ -283,7 +283,7 @@ These metrics were computed at multiple aggregation levels: **by campaign, by ca
 
 ---
 
-## 🔹 Performance by Day Type  
+## Performance by Day Type  
 - Increase **ad spending on weekends** to improve performance, as buyers are less active than weekdays.  
 - Run **flash sales on Fridays**, the best-performing day, to drive more clicks and conversions into the weekend.  
 - Reduce ad budget on **Mondays** (weakest performance: lowest CTR and orders).  
@@ -292,7 +292,7 @@ These metrics were computed at multiple aggregation levels: **by campaign, by ca
 
 ---
 
-## 🔹 Performance by Category  
+## Performance by Category  
 - **Scale up budget for influencer campaigns** → highest ROMI (154%) and best lead-to-order conversion (CR2: 17.8%).  
 - Analyze and expand **micro/nano influencer partnerships** based on performance and platform fit (TikTok vs. YouTube).  
 - Match **influencer audience with content interests** of target customer segments.  
@@ -302,7 +302,7 @@ These metrics were computed at multiple aggregation levels: **by campaign, by ca
 
 ---
 
-## 🔹 Geo-Location Performance  
+## Geo-Location Performance  
 - **Segment and invest in “Others” region:**  
   - Break down by cities for **targeted campaigns**.  
   - Scale investment for sub-regions with high ROMI.  
