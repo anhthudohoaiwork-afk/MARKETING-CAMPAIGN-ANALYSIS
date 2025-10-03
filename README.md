@@ -105,7 +105,7 @@ These metrics were computed at multiple aggregation levels: **by campaign, by ca
 **Business Question: *When did we spend or earn the most?***  
 
 **Key Insights**  
-- Revenue peaked on the 20th, aligning with clicks and leads, before dropping at month-end.  
+- **Revenue** peaked on the 20th, aligning with **clicks** and **leads**, before dropping at month-end.  
 - **ROMI** decreased sharply at the end of the month → high spend but low conversion value.  
 - Mid-month surge may correlate with consumer payday behavior → higher engagement and purchases.  
 
