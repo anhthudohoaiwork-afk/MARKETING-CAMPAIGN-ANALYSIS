@@ -90,9 +90,9 @@ These metrics were computed at multiple aggregation levels: **by campaign, by ca
 ### Business Question: *When did we spend or earn the most?*
 
 **Key Insights**  
-- Clicks increased steadily from the 10th to the 20th, peaking on the 20th, before dropping sharply at the end of the month.  
+- **Clicks** increased steadily from the 10th to the 20th, peaking on the 20th, before dropping sharply at the end of the month.  
 - **CPC** was most efficient between the 18th and 20th → optimal cost-performance period.  
-- Leads followed a similar trend, peaking on the 20th, then declining sharply.  
+- **Leads** followed a similar trend, peaking on the 20th, then declining sharply.  
 - **CPL** remained suboptimal → conversion optimization opportunities.  
 
 ![Daily Click Trends & Cost Efficiency](images/Daily%20Click%20Trends%20&%20Cost%20Efficiency.png)  
